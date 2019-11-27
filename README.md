@@ -1,6 +1,4 @@
-# task1
-
-A new Flutter project.
+# task
 
 Screenshots:
 Task 1: Basic Widget ![Screenshots](basic1.PNG)
