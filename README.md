@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
  
 Screenshots:
-Task 1: Basic Widget [Screenshots](
+Task 1: Basic Widget [Screenshots](https://github.com/madeadriandp/basic_widget/blob/master/Screen%20Day%201.PNG)
